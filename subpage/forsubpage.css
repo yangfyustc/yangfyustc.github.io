@@ -41,3 +41,6 @@ p {
 h5 {  
     font-style: italic;
 }
+.center {
+    text-align: center;
+}

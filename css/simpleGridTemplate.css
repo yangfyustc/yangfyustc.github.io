@@ -214,11 +214,9 @@ footer {
     font-size: 30px;
     text-align: center;
     font-family: "Microsoft YaHei UI", Arial, "Cambria Math";
-    height: 40px;
 }
 
 .header {
-    height: 80px;
     text-align: center;
     font-family: "Microsoft YaHei UI", Arial, "Cambria Math";
     font-size: 50px;
@@ -230,7 +228,6 @@ footer {
     font-size: 30px;
 }
 .prefer_pdf {
-    height: 40px;
     color: #FF0000;
     text-shadow: 0px 0px #000000;
     font-family: "Microsoft YaHei UI", Arial, "Cambria Math";
